@@ -1,2 +1,2 @@
 # discordbot2
-ger
+geri donusum
